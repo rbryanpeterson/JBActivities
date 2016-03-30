@@ -4,7 +4,7 @@
        "icon": "images/rsz_aaron_40.png",
        "iconSmall": "images/rsz_aaron_15.png",
        "category": "messages",
-	   "isConfigured":false
+	   "isConfigured":true
    },
    "type": "REST",
    "lang": {
