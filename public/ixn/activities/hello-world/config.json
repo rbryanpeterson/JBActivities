@@ -17,7 +17,7 @@
        "execute": {
            "inArguments": [{ "eventData":"{{Context.PublicationId}}"}],
            "outArguments": [],
-           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/",
+           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/index.html",
 		   "verb": "POST",
 		   "body": "",
             "format": "json",
@@ -28,21 +28,21 @@
    "configurationArguments": {
        "applicationExtensionKey": "{{KEY}}",
        "save": {
-           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/",
+           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/index.html",
 		   "verb": "POST",
 			"body": "",
             "format": "json",
             "useJwt": false
        },
        "publish": {
-           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/",
+           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/index.html",
 		   "verb": "POST",
 			"body": "",
             "format": "json",
             "useJwt": false
        },
        "validate": {
-           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/",
+           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/index.html",
 		   "verb": "POST",
 			"body": "",
             "format": "json",
@@ -50,7 +50,7 @@
        }
    },
    "edit": {
-		"url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/",
+		"url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/index.html",
 		"height": 400,
 		"width": 500
 	}
