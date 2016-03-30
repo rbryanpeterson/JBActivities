@@ -1,4 +1,4 @@
-copied from http-activity by Jimmy Burgess.
+copied from https://github.com/salesforce-marketingcloud/http-request
 
 
 # Journey Builder
