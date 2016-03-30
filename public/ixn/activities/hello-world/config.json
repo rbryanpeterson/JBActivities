@@ -28,7 +28,7 @@
    "configurationArguments": {
        "applicationExtensionKey": "{{KEY}}",
        "save": {
-           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/save",
+           "url": "https://herokuapp.com",
 		   "verb": "POST",
 			"body": "",
             "format": "json",
