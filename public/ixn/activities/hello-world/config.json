@@ -15,38 +15,19 @@
    },
    "arguments": {
        "execute": {
-           "inArguments": [{ "eventData":"{{Context.PublicationId}}"}],
-           "outArguments": [],
-           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/execute",
-		   "verb": "POST",
-		   "body": "",
-            "format": "json",
-            "timeout": 3000,
-            "useJwt": true
+           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/execute"
        }
    },
    "configurationArguments": {
        "applicationExtensionKey": "{{KEY}}",
        "save": {
-           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/save",
-		   "verb": "POST",
-			"body": "",
-            "format": "json",
-            "useJwt": false
+           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/save"
        },
        "publish": {
-           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/publish",
-		   "verb": "POST",
-			"body": "",
-            "format": "json",
-            "useJwt": false
+           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/publish"
        },
        "validate": {
-           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/validate",
-		   "verb": "POST",
-			"body": "",
-            "format": "json",
-            "useJwt": false
+           "url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/validate"
        }
    },
    "edit": {
