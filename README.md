@@ -14,7 +14,3 @@ copied from https://github.com/salesforce-marketingcloud/http-request
 * CLIENT_ID - client id from app center
 * CLIENT_SECRET - client secrect from app center
 * KEY - key of JB activity created in app center
-* REQUEST_BODY - {"key":"value"}
-* REQUEST_HEADERS - Content-type,application/json
-* REQUEST_METHOD - GET
-* REQUEST_URL - https://www.exacttargetapis.com/platform/v1/tokenContext
