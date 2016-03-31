@@ -1,8 +1,8 @@
 {
    "workflowApiVersion": "1.0",
    "metaData": {
-       "icon": "images/rsz_aaron_40.png",
-       "iconSmall": "images/rsz_aaron_15.png",
+       "icon": "http://image.s4.exct.net/lib/fe9815737c64057475/m/1/61831a8d-8919-44e2-8c76-3bd4d873a887.png",
+       "iconSmall": "http://image.s4.exct.net/lib/fe9815737c64057475/m/1/706111f0-69d9-456b-b050-803a53c7a09e.png",
        "category": "message",
 	   "isConfigured":true
    },
