@@ -1,7 +1,4 @@
 {
-   "metaData": {
-       "icon": "images/icon.png",
-       }
     "key": "http-trigger",
     "lang": {
         "en-US": {
