@@ -1,4 +1,11 @@
 {
+   "workflowApiVersion": "1.0",
+   "metaData": {
+       "icon": "images/callcenter_40.png",
+       "iconSmall": "images/callcenter_15.png",
+       "category": "message",
+	   "isConfigured":true
+   }
     "key": "http-trigger",
     "lang": {
         "en-US": {
